@@ -15,5 +15,6 @@ Licencia libre en contenido.<br>
 - pathlib<br>
 - os<br>
 - shutil<br>
+<br>
 [Consideraciones]<br>
 - Si se desea correr en el ordenador propio se deben de actualizar los directorios, en específico la ruta base en donde se encuentre el archivo descargado.
