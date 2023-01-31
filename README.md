@@ -10,6 +10,13 @@ Licencia libre en contenido.<br>
 [Descripción]
 - Uso de funciones la el manejo en el flujo de inflormación.<br>
 - Establecimiento y manejo directorios y ficheros con bibliotecas os y pathlib.<br>
+- El programa puede desempeñar cualquiera de las siguientes opciones respecto al recetario:<br>
+  1. Leer una receta existente en alguna de las categorías del recetario.<br>
+  2. Crear una receta dentro de alguna de las categorías.<br>
+  3. Crear una categoría nueva en el recetario.<br>
+  4. Eliminar una receta prexistente en alguna de las categorías del recetario.<br>
+  5. Eliminar una categoría prexistente en el recetario.<br>
+  6. Finalizar el programa.<br>
 <br>
 [Bibliotecas]<br>
 - pathlib<br>
